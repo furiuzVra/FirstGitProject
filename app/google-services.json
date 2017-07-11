@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "147356399350",
+    "firebase_url": "https://seminarskiapp.firebaseio.com",
+    "project_id": "seminarskiapp",
+    "storage_bucket": "seminarskiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147356399350:android:d4764da7a3609f9e",
+        "android_client_info": {
+          "package_name": "duc.example.com.seminarskiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147356399350-8rfkskio3a11sgpgmp46f6qmu47nbt98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "duc.example.com.seminarskiapp",
+            "certificate_hash": "ebc0e643f25e20b28e399fff079b8ebee2f96dd4"
+          }
+        },
+        {
+          "client_id": "147356399350-a8igtqpqj62p983iutnjglac5qrg1gv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmW32AZ4Gs4qyDu3MTEQ6jLxeSuDfJ32w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147356399350-a8igtqpqj62p983iutnjglac5qrg1gv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
